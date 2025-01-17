@@ -1,0 +1,16 @@
+1. In Supervised Learning, the Machine Learning model is trained with?
+Labelled Data
+
+Supervised learning, also known as supervised machine learning, is a subcategory of machine learning and artificial intelligence. It is defined by its use of labeled datasets to train algorithms that to classify data or predict outcomes accurately.
+
+2. What are the different types of tasks in Supervised Learning (2 correct answers)
+Regression
+Classification
+
+A classification algorithm may predict a continuous value, but the continuous value is in the form of a probability for a class label. A regression algorithm may predict a discrete value, but the discrete value in the form of an integer quantity.
+
+
+3. A Machine Learning model can predict the salary of a person, given his/her work experience. This is an example of ?
+Regression 
+
+Since salary is a continuous value ( & not discrete), it is an example of Regression.
