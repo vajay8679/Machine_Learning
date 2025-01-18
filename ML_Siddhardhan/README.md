@@ -48,3 +48,12 @@ https://www.youtube.com/watch?v=arRpX2d9ACU&list=PLfFghEzKVmjsNtIRwErklMAN8nJmeb
 
 # 2.7. Loops in Python | For Loop in Python | While Loop in Python | Python Tutorial
 https://www.youtube.com/watch?v=cq8DBiaErAI&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=13
+
+
+# 2.8. Functions in Python | Python Tutorial for Beginners
+https://www.youtube.com/watch?v=LSedCocyJVg&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=
+
+
+# 3.1. Complete Numpy Tutorial in Python | Numpy Arrays
+https://www.youtube.com/watch?v=qAgyemeRhTw&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=15
+
