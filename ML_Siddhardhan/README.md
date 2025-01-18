@@ -57,3 +57,10 @@ https://www.youtube.com/watch?v=LSedCocyJVg&list=PLfFghEzKVmjsNtIRwErklMAN8nJmeb
 # 3.1. Complete Numpy Tutorial in Python | Numpy Arrays
 https://www.youtube.com/watch?v=qAgyemeRhTw&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=15
 
+
+# 3.2. Complete Pandas Tutorial in Python | Pandas Dataframe Tutorial
+https://www.youtube.com/watch?v=gQJIGgw6ZCw&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=16
+
+
+# 3.3. Matplotlib Tutorial in Python | Machine Learning Course with Python
+https://www.youtube.com/watch?v=sDgwspj8aBk&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=17
