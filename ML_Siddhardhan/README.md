@@ -40,3 +40,11 @@ https://www.youtube.com/watch?v=ozZijGQCLgw&list=PLfFghEzKVmjsNtIRwErklMAN8nJmeb
 
 # 2.4. Python Special data types | List Tuple Set Dictionary | Python Tutorial
 https://www.youtube.com/watch?v=lT2GfuCKJ4c&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=10
+
+
+# 2.5. Operators in Python | Python Tutorial |Arithmetic Assignment Comparison Logical Identity Member
+https://www.youtube.com/watch?v=arRpX2d9ACU&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=11
+
+
+# 2.7. Loops in Python | For Loop in Python | While Loop in Python | Python Tutorial
+https://www.youtube.com/watch?v=cq8DBiaErAI&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=13
