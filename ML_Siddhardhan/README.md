@@ -64,3 +64,31 @@ https://www.youtube.com/watch?v=gQJIGgw6ZCw&list=PLfFghEzKVmjsNtIRwErklMAN8nJmeb
 
 # 3.3. Matplotlib Tutorial in Python | Machine Learning Course with Python
 https://www.youtube.com/watch?v=sDgwspj8aBk&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=17
+
+
+# 3.4. Seaborn Tutorial in Python | Machine Learning Course
+https://www.youtube.com/watch?v=FUzM6Fy1oIw&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=18
+
+
+# 4.1. Where to Collect Data For Machine Learning? | Data Collection
+https://www.youtube.com/watch?v=4ub10unSjro&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=19
+
+
+
+kaggle
+uci machine learning repository
+google dataset search
+
+https://www.kaggle.com/datasets/vikrishnan/boston-house-prices
+
+https://archive.ics.uci.edu/dataset/53/iris
+
+
+# 4.2. Importing Datasets through Kaggle API
+https://www.youtube.com/watch?v=EWp1LM9KVRs&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=20
+
+https://www.kaggle.com/competitions/LANL-Earthquake-Prediction/data
+
+
+# 4.3. Handling Missing Values in Machine Learning | Imputation | Dropping
+https://www.youtube.com/watch?v=GzZmfe030PU&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=21
