@@ -109,6 +109,9 @@ https://www.youtube.com/watch?v=-KYiefj2wuw&list=PLfFghEzKVmjsNtIRwErklMAN8nJmeb
 # 4.7. How to Handle imbalanced Dataset | Data Pre-Processing | Machine Learning Course
 https://www.youtube.com/watch?v=tUNAuf8JdEE&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=25
 
+for file 
+credit_data.csv -  https://drive.google.com/file/d/1WkcjUn5tVJDUtkN6d2_gztiT1FmIIVDP/view
+
 
 # 4.8. Feature extraction of Text data using Tfidf Vectorizer | Data Preprocessing | Machine Learning
 https://www.youtube.com/watch?v=Yo327cc818g&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=26
