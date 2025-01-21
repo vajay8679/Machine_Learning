@@ -115,3 +115,23 @@ credit_data.csv -  https://drive.google.com/file/d/1WkcjUn5tVJDUtkN6d2_gztiT1FmI
 
 # 4.8. Feature extraction of Text data using Tfidf Vectorizer | Data Preprocessing | Machine Learning
 https://www.youtube.com/watch?v=Yo327cc818g&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=26
+
+
+for file 
+train.csv - https://drive.google.com/file/d/1NfymoNrkpfWuZhpwxzoNk4bhVVlU5qiN/view
+
+
+# 4.9. Numerical Dataset Pre-Processing - Use Case | Machine Learning Course with Python
+https://www.youtube.com/watch?v=ppGwGO7OgvU&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=27
+
+
+for file 
+diabetes.csv - https://colab.research.google.com/drive/1nG88egjE1Mcs2Dme1joyNQkh7h6_1mxA?usp=sharing#scrollTo=na-dUNZPLMgV
+
+
+# 4.10. Text Dataset Pre-Processing - Use Case | Machine Learning Course | Data Pre Processing
+https://www.youtube.com/watch?v=w3XpAi8fAok&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=28
+
+
+for file 
+train.csv - https://drive.google.com/file/d/1NfymoNrkpfWuZhpwxzoNk4bhVVlU5qiN/view
