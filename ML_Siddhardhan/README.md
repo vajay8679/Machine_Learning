@@ -100,3 +100,11 @@ https://www.youtube.com/watch?v=0Z_DqrPHT2A&list=PLfFghEzKVmjsNtIRwErklMAN8nJmeb
 
 # 4.5. Label Encoding | Data Pre-Processing | Machine Learning Course
 https://www.youtube.com/watch?v=lsAqyzln-5g&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=23
+
+
+# 4.6. Train Test Split | Splitting the dataset to Training and Testing data | Machine Learning Course
+https://www.youtube.com/watch?v=-KYiefj2wuw&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=24
+
+
+# 4.7. How to Handle imbalanced Dataset | Data Pre-Processing | Machine Learning Course
+https://www.youtube.com/watch?v=tUNAuf8JdEE&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=25
