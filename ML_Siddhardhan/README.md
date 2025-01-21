@@ -92,3 +92,11 @@ https://www.kaggle.com/competitions/LANL-Earthquake-Prediction/data
 
 # 4.3. Handling Missing Values in Machine Learning | Imputation | Dropping
 https://www.youtube.com/watch?v=GzZmfe030PU&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=21
+
+
+# 4.4. Data Standardization | Data Preprocessing | Machine Learning Course
+https://www.youtube.com/watch?v=0Z_DqrPHT2A&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=22
+
+
+# 4.5. Label Encoding | Data Pre-Processing | Machine Learning Course
+https://www.youtube.com/watch?v=lsAqyzln-5g&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=23
