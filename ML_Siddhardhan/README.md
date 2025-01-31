@@ -143,3 +143,21 @@ train.csv - https://drive.google.com/file/d/1NfymoNrkpfWuZhpwxzoNk4bhVVlU5qiN/vi
 #######################################################################################################
 
 https://www.youtube.com/watch?v=fiz1ORTBGpY&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=29
+
+Logistic Regression model
+
+
+#######################################################################################################
+# Project 2: Diabetes Prediction using Machine Learning with Python | End To End Python ML Project
+#######################################################################################################
+
+https://www.youtube.com/watch?v=xUE7SjVx9bQ&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=30
+
+Support Vector Machine
+
+
+#######################################################################################################
+# Project 3. House Price Prediction using Machine Learning with Python | Machine Learning Project
+#######################################################################################################
+
+https://www.youtube.com/watch?v=fw5rkjq4Tfo&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=31
