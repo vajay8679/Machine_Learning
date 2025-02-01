@@ -161,3 +161,6 @@ Support Vector Machine
 #######################################################################################################
 
 https://www.youtube.com/watch?v=fw5rkjq4Tfo&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=31
+
+XGBoost Regression
+
