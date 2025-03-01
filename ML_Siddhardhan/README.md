@@ -164,3 +164,12 @@ https://www.youtube.com/watch?v=fw5rkjq4Tfo&list=PLfFghEzKVmjsNtIRwErklMAN8nJmeb
 
 XGBoost Regression
 
+
+#######################################################################################################
+# Project 4. Fake News Prediction using Machine Learning with Python | Machine Learning Projects
+#######################################################################################################
+
+https://www.youtube.com/watch?v=nacLBdyG6jE&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=32
+
+
+dataset  - https://www.kaggle.com/competitions/fake-news/data?select=train.csv
