@@ -173,3 +173,18 @@ https://www.youtube.com/watch?v=nacLBdyG6jE&list=PLfFghEzKVmjsNtIRwErklMAN8nJmeb
 
 
 dataset  - https://www.kaggle.com/competitions/fake-news/data?select=train.csv
+
+Logical Regression
+
+
+#######################################################################################################
+# Project 5. Loan Status Prediction using Machine Learning with Python | Machine Learning Project
+#######################################################################################################
+
+https://www.youtube.com/watch?v=XckM1pFgZmg&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=33
+
+
+#label encodig
+loan_dataset.replace({"Loan_Status":{"N":0,"Y":1}}, inplace=True)
+
+inplace=True -> changes all the values of that column means i want to change value of "No" to 0 and "Yes" to 1 in all values of that particular column
