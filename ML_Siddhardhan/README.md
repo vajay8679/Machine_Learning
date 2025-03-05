@@ -196,3 +196,12 @@ inplace=True -> changes all the values of that column means i want to change val
 #######################################################################################################
 
 https://www.youtube.com/watch?v=CBxJuwrGrc4&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=34
+
+
+
+#######################################################################################################
+Project 7. Car Price Prediction using Machine Learning with Python | Machine Learning Projects
+#######################################################################################################
+
+https://www.youtube.com/watch?v=L3OtLaCbJC8&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=35
+
