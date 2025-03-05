@@ -200,8 +200,14 @@ https://www.youtube.com/watch?v=CBxJuwrGrc4&list=PLfFghEzKVmjsNtIRwErklMAN8nJmeb
 
 
 #######################################################################################################
-Project 7. Car Price Prediction using Machine Learning with Python | Machine Learning Projects
+# Project 7. Car Price Prediction using Machine Learning with Python | Machine Learning Projects
 #######################################################################################################
 
 https://www.youtube.com/watch?v=L3OtLaCbJC8&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=35
 
+
+#######################################################################################################
+# Project 8. Gold Price Prediction using Machine Learning with Python | Machine Learning Projects
+#######################################################################################################
+
+https://www.youtube.com/watch?v=9ffkBvh8PTQ&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=36
