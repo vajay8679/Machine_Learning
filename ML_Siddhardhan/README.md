@@ -219,3 +219,11 @@ https://www.youtube.com/watch?v=9ffkBvh8PTQ&list=PLfFghEzKVmjsNtIRwErklMAN8nJmeb
 #######################################################################################################
 
 https://www.youtube.com/watch?v=qmqCYC-MBQo&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=37
+
+
+
+#######################################################################################################
+# Project 10. Credit Card Fraud Detection using Machine Learning in Python | Machine Learning Projects
+#######################################################################################################
+
+https://www.youtube.com/watch?v=NCgjcHLFNDg&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=38
