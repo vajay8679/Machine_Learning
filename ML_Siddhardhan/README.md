@@ -211,3 +211,11 @@ https://www.youtube.com/watch?v=L3OtLaCbJC8&list=PLfFghEzKVmjsNtIRwErklMAN8nJmeb
 #######################################################################################################
 
 https://www.youtube.com/watch?v=9ffkBvh8PTQ&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=36
+
+
+
+#######################################################################################################
+# Project 9. Heart Disease Prediction using Machine Learning with Python | Machine Learning Projects
+#######################################################################################################
+
+https://www.youtube.com/watch?v=qmqCYC-MBQo&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=37
