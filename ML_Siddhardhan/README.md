@@ -227,3 +227,6 @@ https://www.youtube.com/watch?v=qmqCYC-MBQo&list=PLfFghEzKVmjsNtIRwErklMAN8nJmeb
 #######################################################################################################
 
 https://www.youtube.com/watch?v=NCgjcHLFNDg&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=38
+
+
+Dataset - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
