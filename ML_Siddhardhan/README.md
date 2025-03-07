@@ -230,3 +230,11 @@ https://www.youtube.com/watch?v=NCgjcHLFNDg&list=PLfFghEzKVmjsNtIRwErklMAN8nJmeb
 
 
 Dataset - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+
+
+#######################################################################################################
+# Project 11. Medical Insurance Cost Prediction using Machine Learning with Python | ML Projects
+#######################################################################################################
+
+https://www.youtube.com/watch?v=ntBa7YKc9XM&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=39
