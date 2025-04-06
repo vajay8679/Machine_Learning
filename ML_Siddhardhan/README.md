@@ -238,3 +238,22 @@ Dataset - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 #######################################################################################################
 
 https://www.youtube.com/watch?v=ntBa7YKc9XM&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=39
+
+
+
+#######################################################################################################
+# Project 12. Big Mart Sales Prediction using Machine Learning with Python | Machine Learning Projects
+#######################################################################################################
+
+https://www.youtube.com/watch?v=epI9W3MZ3Ts&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=40
+
+
+
+
+#######################################################################################################
+# Project 13. Customer Segmentation using K-Means Clustering with Python | Machine Learning Projects
+#######################################################################################################
+
+https://www.youtube.com/watch?v=SrY0sTJchHE&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=41
+
+
