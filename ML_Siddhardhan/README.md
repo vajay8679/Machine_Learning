@@ -259,7 +259,7 @@ https://www.youtube.com/watch?v=SrY0sTJchHE&list=PLfFghEzKVmjsNtIRwErklMAN8nJmeb
 
 
 #######################################################################################################
-Project 14. Parkinson's Disease Detection using Machine Learning - Python | Machine Learning Project
+# Project 14. Parkinson's Disease Detection using Machine Learning - Python | Machine Learning Project
 #######################################################################################################
 
 https://www.youtube.com/watch?v=HbyN_ey-JVc&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=42
@@ -267,7 +267,7 @@ https://www.youtube.com/watch?v=HbyN_ey-JVc&list=PLfFghEzKVmjsNtIRwErklMAN8nJmeb
 
 
 #######################################################################################################
-Project 15. Titanic Survival Prediction using Machine Learning in Python | Machine Learning Project
+# Project 15. Titanic Survival Prediction using Machine Learning in Python | Machine Learning Project
 #######################################################################################################
 
 https://www.youtube.com/watch?v=Lgp14y9-U74&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=43
@@ -276,7 +276,7 @@ https://www.youtube.com/watch?v=Lgp14y9-U74&list=PLfFghEzKVmjsNtIRwErklMAN8nJmeb
 
 
 #######################################################################################################
-Project 16. Calories Burnt Prediction using Machine Learning with Python | Machine Learning Projects
+# Project 16. Calories Burnt Prediction using Machine Learning with Python | Machine Learning Projects
 #######################################################################################################
 
 https://www.youtube.com/watch?v=ZD27QTvSbTY&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=44
