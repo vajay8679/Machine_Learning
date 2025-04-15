@@ -280,3 +280,48 @@ https://www.youtube.com/watch?v=Lgp14y9-U74&list=PLfFghEzKVmjsNtIRwErklMAN8nJmeb
 #######################################################################################################
 
 https://www.youtube.com/watch?v=ZD27QTvSbTY&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=44
+
+
+
+
+
+#######################################################################################################
+# 5.0. Mathematics for Machine Learning - Introduction | Machine Learning Course
+#######################################################################################################
+
+https://www.youtube.com/watch?v=VCF8kiLtBzU&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=45
+
+Linear Algebra
+Statistics
+Probability
+Calculus
+
+
+
+#######################################################################################################
+# 5.1.1. Linear Algebra - Vectors | Mathematics for Machine Learning
+#######################################################################################################
+
+https://www.youtube.com/watch?v=-RlJyf43zFA&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=46
+
+
+
+#######################################################################################################
+# 5.1.2. Vector Operations - Part 1 | Mathematics for Machine Learning | Linear Algebra
+#######################################################################################################
+
+https://www.youtube.com/watch?v=sNXzMW8-XUk&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=47
+
+
+Vector Addition
+Vector Subtraction
+Vector Multiply by scalar
+Angle Between 2 Vectors
+
+
+
+#######################################################################################################
+# 5.1.3. Vector Operations - in Python - Part 1 | Math for Machine Learning | Linear Algebra
+#######################################################################################################
+
+https://www.youtube.com/watch?v=ULK4UlXyAGA&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=48
