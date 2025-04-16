@@ -325,3 +325,11 @@ Angle Between 2 Vectors
 #######################################################################################################
 
 https://www.youtube.com/watch?v=ULK4UlXyAGA&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=48
+
+
+
+#######################################################################################################
+# 5.1.4. Vector Operations - Part 2 | Dot Product | Cross Product | Projection of vector | Math for ML
+#######################################################################################################
+
+https://www.youtube.com/watch?v=jq4IMDj7yuk&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=49
