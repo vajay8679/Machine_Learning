@@ -333,3 +333,228 @@ https://www.youtube.com/watch?v=ULK4UlXyAGA&list=PLfFghEzKVmjsNtIRwErklMAN8nJmeb
 #######################################################################################################
 
 https://www.youtube.com/watch?v=jq4IMDj7yuk&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=49
+
+
+
+1. Dot Product of two vectors
+2. Cross Product of two vectors
+3. Projection of vector
+
+
+#######################################################################################################
+# 5.1.5. Vector Operations - in Python - Part 2 | Dot Product | Cross Product | Projection of vector
+#######################################################################################################
+
+https://www.youtube.com/watch?v=af7osGzIoxs&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=50
+
+
+#######################################################################################################
+# 5.1.6. Matrix - Basics | Math for Machine Learning | Linear Algebra
+#######################################################################################################
+
+https://www.youtube.com/watch?v=GHhdy2AKpCg&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=51
+
+
+1. scalar's, Vectors, Matrix
+2. Shape of a Matrix
+3. Different types of matrix
+4. Transpose of a matrix
+5. Role of Matrix in Machine Learning
+
+
+#######################################################################################################
+# 5.1.7. Working with Matrix in Python | Mathematics for Machine Learning | Linear Algebra
+#######################################################################################################
+
+https://www.youtube.com/watch?v=0QG7wzcj-U8&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=52
+
+
+
+#######################################################################################################
+# 5.1.8. Matrix Operations - Addition, Subtraction, Multiplication | Mathematics for Machine Learning
+#######################################################################################################
+
+https://www.youtube.com/watch?v=cw222tHtb9M&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=53
+
+
+1. Matrix Addition
+2. Matrix Subtraction
+3. Multiplying a matrix with a Scalar
+4. Multiplying 2 Matrix
+
+
+
+#######################################################################################################
+# 5.1.9. Matrix Operations in Python | Mathematics for Machine Learning | Linear Algebra
+#######################################################################################################
+
+https://www.youtube.com/watch?v=b2oDNSmykgc&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=54
+
+
+
+#######################################################################################################
+# 5.2.1. Statistics for Machine Learning | Machine Learning course
+#######################################################################################################
+
+https://www.youtube.com/watch?v=CrCsolJZL84&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=55
+
+
+    
+#######################################################################################################
+# 5.2.2. Basics of Statistics | Types of Data in Statistics | Statistics for Machine Learning
+#######################################################################################################
+
+https://www.youtube.com/watch?v=YvjiK0VDJ0M&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=56
+
+
+
+#######################################################################################################
+# 5.2.3. Types of Statistics | Descriptive and Inferential Statistics | Machine Learning Course
+#######################################################################################################
+
+https://www.youtube.com/watch?v=4Q4A42mCr0A&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=57
+
+
+
+#######################################################################################################
+# 5.2.3. Types of Statistics | Descriptive and Inferential Statistics | Machine Learning Course
+#######################################################################################################
+
+https://www.youtube.com/watch?v=4Q4A42mCr0A&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=57
+
+
+1. Descriptive Statistics
+        measure of central tendency - (Mean, Mode, Median)
+        Measure of Variability (Range, Standard Deviation, Variance)
+
+2. Inferential Statistics - sample data
+
+
+#######################################################################################################
+# 5.2.4. Types of statistical studies | Statistics for Machine Learning | Machine Learning course
+#######################################################################################################
+
+https://www.youtube.com/watch?v=ps2o_yBCA1c&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=58
+
+
+1. Sample study
+2. Observation Study
+3. Experimental Study
+
+
+#######################################################################################################
+# 5.2.5. Population and Sample | Sampling techniques | Statistics for Machine Learning
+#######################################################################################################
+
+https://www.youtube.com/watch?v=RACQgif4a30&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=59
+
+types of sampling techniques
+1. simple random techniques
+2. systematic sampling
+3. stratified random techniques
+4. cluster sampling
+
+#######################################################################################################
+# 5.2.6. Measure of Central Tendencies - Mean, Median, Mode | Statistics for Machine Learning
+#######################################################################################################
+
+https://www.youtube.com/watch?v=tbVeThdZNz4&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=60
+
+Central Tendencies - Mean, Median, Mode
+
+#######################################################################################################
+# 5.2.7. Measure of Variability - Range, Variance, Standard Deviation | Math for Machine Learning
+#######################################################################################################
+
+https://www.youtube.com/watch?v=OOJa27TbArc&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=61
+
+Measure of Variability - Range, Variance, Standard Deviation
+
+
+#######################################################################################################
+# 5.2.8. Percentiles and Quantiles | Statistics for Machine Learning | Machine Learning Course
+#######################################################################################################
+
+https://www.youtube.com/watch?v=p5W3nf9P0gk&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=62
+
+Percentiles and Quantiles 
+
+
+#######################################################################################################
+# 5.2.9. Correlation and Causation | Statistics for machine learning | Machine Learning Course
+#######################################################################################################
+
+https://www.youtube.com/watch?v=RSExZenpyC4&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=63
+
+Correlation and Causation 
+
+
+#######################################################################################################
+# 5.2.10. Hypothesis Testing | Null Hypothesis and Alternative Hypothesis | Math For Machine Learning
+#######################################################################################################
+
+https://www.youtube.com/watch?v=5FW5YdbpXmg&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=64
+
+
+Hypothesis Testing | Null Hypothesis and Alternative Hypothesis
+
+
+#######################################################################################################
+# 5.3.1. Probability for Machine Learning | Machine Learning Course
+#######################################################################################################
+
+https://www.youtube.com/watch?v=Ws-11M9rh44&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=65
+
+
+#######################################################################################################
+# 5.3.2. Basics of Probability | Probability for Machine Learning | Machine Learning Course
+#######################################################################################################
+
+https://www.youtube.com/watch?v=0TVpukzIdxw&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=66
+
+
+
+#######################################################################################################
+# 5.3.3. Random Variables and its types | Discrete Random Variables | Continuous Random Variables
+#######################################################################################################
+
+https://www.youtube.com/watch?v=PwUvkwIRcZg&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=67
+
+
+Random Variables and its types
+
+Discrete Random Variables 
+Continuous Random Variables
+
+
+#######################################################################################################
+# 5.3.4. Probability Distribution for Random Variable | Machine Learning Course
+#######################################################################################################
+
+https://www.youtube.com/watch?v=4eJcotW-b7Y&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=68
+
+
+
+#######################################################################################################
+# 5.3.5. Normal Distribution or Gaussian Distribution | Skewness | Probability for Machine Learning
+#######################################################################################################
+
+https://www.youtube.com/watch?v=8C04WqbSUFI&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=69
+
+
+Normal Distribution
+Skewness
+
+#######################################################################################################
+# 5.3.6. Poisson Distribution | Probability for Machine Learning
+#######################################################################################################
+
+https://www.youtube.com/watch?v=06J-F1Bgo4w&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=70
+
+
+
+#######################################################################################################
+# 6.1. What is a Machine Learning Model?
+#######################################################################################################
+
+https://www.youtube.com/watch?v=m8kw6lxeGHI&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=71
