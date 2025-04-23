@@ -558,3 +558,36 @@ https://www.youtube.com/watch?v=06J-F1Bgo4w&list=PLfFghEzKVmjsNtIRwErklMAN8nJmeb
 #######################################################################################################
 
 https://www.youtube.com/watch?v=m8kw6lxeGHI&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=71
+
+
+#######################################################################################################
+# 6.2. Supervised Learning Models | Supervised Learning
+#######################################################################################################
+
+https://www.youtube.com/watch?v=5Z3HpQLFLkk&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=72
+
+
+#######################################################################################################
+# 6.3. Unsupervised Learning Models | Unsupervised Learning
+#######################################################################################################
+
+https://www.youtube.com/watch?v=JeyECZpo-OY&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=73
+
+
+
+#######################################################################################################
+# 6.4. How to choose the right Machine Learning Model | Model Selection | Cross Validation
+#######################################################################################################
+
+https://www.youtube.com/watch?v=SF0YdBXjr_A&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=74
+
+
+
+for cross validation - https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_score.html
+
+
+#######################################################################################################
+# 6.5. Overfitting in Machine Learning | Causes for Overfitting and its Prevention
+#######################################################################################################
+
+https://www.youtube.com/watch?v=gy8kXdd6K-o&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=75
