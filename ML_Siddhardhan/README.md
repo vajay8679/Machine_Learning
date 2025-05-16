@@ -591,3 +591,57 @@ for cross validation - https://scikit-learn.org/stable/modules/generated/sklearn
 #######################################################################################################
 
 https://www.youtube.com/watch?v=gy8kXdd6K-o&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=75
+
+
+
+#######################################################################################################
+# 6.6. Underfitting in Machine Learning | Causes for Underfitting and its Prevention
+#######################################################################################################
+
+https://www.youtube.com/watch?v=VszjECyEOYc&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=76
+
+
+#######################################################################################################
+# 6.7. Bias Variance Tradeoff | Machine Learning
+#######################################################################################################
+
+https://www.youtube.com/watch?v=8HEV5sQ-FuQ&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=77
+
+
+
+#######################################################################################################
+# 6.8. Loss Function in Machine Learning
+#######################################################################################################
+
+https://www.youtube.com/watch?v=4MWySASGGe0&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=78
+
+
+#######################################################################################################
+# 6.9. Model Evaluation in Machine Learning | Accuracy score | Mean Squared Error
+#######################################################################################################
+
+https://www.youtube.com/watch?v=qS78U0ErvN8&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=79&pp=iAQB
+
+
+
+#######################################################################################################
+# 6.10. Model Parameters and Hyperparameters | Weights & Bias | Learning Rate & Epochs
+#######################################################################################################
+
+https://www.youtube.com/watch?v=fn2BPbsHLpc&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=80
+
+
+#######################################################################################################
+# 6.11. Gradient Descent in Machine Learning
+#######################################################################################################
+
+https://www.youtube.com/watch?v=gSaatcLqbsQ&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=81
+
+
+
+#######################################################################################################
+# 7.1.1. Linear Regression - Intuition | Machine Learning Models
+#######################################################################################################
+
+
+https://www.youtube.com/watch?v=AZ32LbLcPV0&list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&index=82
